@@ -1,4 +1,4 @@
-# Free Code Camp - Basic project #1 - Build a Personal Portfolio Page
+# Free Code Camp - Basic project #2 - Build a Personal Portfolio Page
 
 Build a personal portfolio webpage functionally similar to:  https://codepen.io/FreeCodeCamp/full/YqLyXB
 
