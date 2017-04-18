@@ -11,8 +11,7 @@ Build a personal portfolio webpage functionally similar to:  https://codepen.io/
 
 ## Deployment
 
-Click to view working version on codepen:  https://codepen.io/xfroggy/full/Vmzpdw/
-
+Click to view working version with github pages:  https://xfroggy.github.io/portfolio/
 ## Built With
 
 * html
