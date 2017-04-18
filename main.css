@@ -1,0 +1,93 @@
+h2 {
+  text-align: center;
+} 
+.top-pad {
+  padding-top:  90px;
+}
+.dk-text {
+  color:#7c786A!important
+}
+.thin-black-border {
+    border-color: black;
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 50%
+  }
+.small-pad {
+  padding: 5px;
+}
+.medium-pad {
+  padding: 20px;
+}
+  .smaller-image {
+   width: 200px; 
+  }
+.larger-image{
+  width: 300px;
+}
+  .menu-bar {
+    background-color: #EB6E44;
+    padding: 5px;
+  }
+  .bk-grey{
+    background-color: #7c786A;
+  }
+  .bk-yellow {
+    background-color:  #FFF5C3;
+  }
+.bk-blue {
+  background-color: #8DCDC1;
+}
+  .logo {
+    width: 75px;
+  }
+.vertical-center{
+
+  display: flex;
+  align-items: center;
+}
+.jumbotron-grey-bkgrnd{
+  color: #D3e397!important;
+  background-color:  #7c786A!important;
+}
+.jumbotron-yellow-bkgrnd{
+  color: #7c786A!important;
+  background-color:  #FFF5C3!important;
+}
+
+.larger-font {
+  font-size: 20px;
+}
+#custom-menu.navbar-default {
+  font-size: 20px;
+  background-color: #EB6E44;
+  border-width: 0px;
+  border-radius: 4px;
+  padding: 10px;
+}
+#custom-menu.navbar-default .navbar-nav>li>a {
+  color: rgba(255, 245, 195,1);
+  background-color: rgba(235, 110, 68, 1);
+}
+
+#custom-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-menu.navbar-default .navbar-nav>li>a:focus {
+  color: rgba(51, 51, 51, 1);
+  background-color: rgba(235, 110, 68, 1);
+  background: -webkit-linear-gradient(top, rgba(211, 227, 151, 1) 0%, rgba(235, 110, 68, 1) 100%);
+  background: linear-gradient(to bottom, rgba(211, 227, 151, 1) 0%, rgba(235, 110, 68, 1) 100%);
+}
+#custom-menu.navbar-default . navbar-toggle {
+  border-color: #d3e397;
+}
+#custom-menu.navbar-default .navbar-toggle:hover,
+#custom-menu.navbar-default .navbar-toggle:focus {
+    background-color: #d3e397;
+}
+#custom-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #d3e397;
+}
+#custom-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #eb6e44;
+}
